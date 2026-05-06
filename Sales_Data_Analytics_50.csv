@@ -1,0 +1,51 @@
+Date,Category,Product,Revenue,Marketing_Spend,Customers
+2026-04-01,Home,Blender,302,240,25
+2026-04-01,Fashion,Shoes,733,156,15
+2026-04-01,Fashion,Jacket,1572,85,8
+2026-04-02,Fashion,Handbag,1686,117,17
+2026-04-03,Electronics,Headphones,662,135,1
+2026-04-03,Fashion,Handbag,428,265,42
+2026-04-03,Home,Coffee Maker,1635,6,6
+2026-04-05,Home,Vacuum,816,287,9
+2026-04-05,Electronics,Laptop,1476,130,2
+2026-04-05,Fashion,Watch,1945,218,27
+2026-04-07,Electronics,Laptop,1713,43,18
+2026-04-07,Electronics,Tablet,1070,100,4
+2026-04-07,Home,Coffee Maker,1101,139,9
+2026-04-07,Electronics,Headphones,1180,76,21
+2026-04-07,Home,Vacuum,1288,92,36
+2026-04-08,Electronics,Headphones,522,155,31
+2026-04-08,Fashion,Shoes,1382,262,24
+2026-04-08,Home,Coffee Maker,1121,66,24
+2026-04-09,Fashion,Jacket,759,141,37
+2026-04-09,Fashion,Shoes,437,93,14
+2026-04-11,Electronics,Tablet,574,164,7
+2026-04-11,Fashion,Watch,193,101,9
+2026-04-12,Home,Blender,435,196,21
+2026-04-13,Home,Coffee Maker,1062,138,28
+2026-04-15,Fashion,Shoes,1627,183,32
+2026-04-15,Electronics,Laptop,1930,13,24
+2026-04-16,Fashion,Watch,1535,219,40
+2026-04-17,Fashion,Jacket,560,174,28
+2026-04-18,Home,Coffee Maker,1419,57,2
+2026-04-20,Fashion,Watch,1528,268,47
+2026-04-21,Home,Lamp,1783,251,4
+2026-04-21,Electronics,Smartphone,928,57,24
+2026-04-22,Home,Lamp,1895,195,18
+2026-04-23,Fashion,Watch,172,259,38
+2026-04-23,Electronics,Headphones,1558,139,21
+2026-04-24,Electronics,Tablet,1683,202,22
+2026-04-25,Fashion,Shoes,1298,287,13
+2026-04-26,Electronics,Tablet,1645,6,1
+2026-04-26,Home,Blender,1045,274,31
+2026-04-26,Electronics,Tablet,237,45,29
+2026-04-27,Electronics,Smartphone,691,224,23
+2026-04-27,Home,Lamp,1681,237,49
+2026-04-27,Fashion,Shoes,1869,70,42
+2026-04-28,Fashion,Shoes,1007,179,44
+2026-04-28,Fashion,Shoes,513,263,20
+2026-04-28,Fashion,Watch,452,151,20
+2026-04-28,Home,Blender,1404,132,28
+2026-04-30,Electronics,Headphones,280,241,15
+2026-04-30,Home,Vacuum,312,256,16
+2026-04-30,Electronics,Smartphone,613,272,39
