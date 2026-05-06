@@ -29,7 +29,3 @@ Task2.ipynb: Python notebook containing the correlation heatmap and EDA.
 Sales_Data_Analytics.csv: The primary dataset.
 SQL_Master_Report.sql: The master query used for performance KPI generation.
 Project_Report.docx: Detailed business-facing documentation. 
-
-
-<img width="451" height="625" alt="image" src="https://github.com/user-attachments/assets/94ab7061-670f-4535-be8d-d0e2bf477979" />
-
